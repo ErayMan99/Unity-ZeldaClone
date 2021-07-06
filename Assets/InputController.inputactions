@@ -1,0 +1,166 @@
+{
+    "name": "InputController",
+    "maps": [
+        {
+            "name": "Link",
+            "id": "80abd085-1e9b-418b-9ad3-c9707a3c6a15",
+            "actions": [
+                {
+                    "name": "South",
+                    "type": "Button",
+                    "id": "74b93bba-12ad-4873-922e-f2e9aee77657",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "East",
+                    "type": "Button",
+                    "id": "a0d489d5-ce7d-4204-96a8-002b27ce6280",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "West",
+                    "type": "Button",
+                    "id": "a3595725-3a21-428d-9248-273ba2bf600f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "North",
+                    "type": "Button",
+                    "id": "4031f094-16f8-41ae-89ad-7b387af89170",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "MoveDown",
+                    "type": "Button",
+                    "id": "5ec52578-76a5-44b3-9c00-5158ba136d78",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "MoveUp",
+                    "type": "Button",
+                    "id": "12fee266-43d8-4afd-afc0-525a9879fefb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "MoveRight",
+                    "type": "Button",
+                    "id": "979bb7b8-c805-4fa7-bf48-397791e25f5d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "MoveLeft",
+                    "type": "Button",
+                    "id": "e40897c0-11bf-42ff-9ce0-bd043a092a6a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9690f191-11c3-49ca-997f-7cc38f15565a",
+                    "path": "<HID::USB,2-axis 8-button gamepad  >/button2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "South",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e3550422-1fb5-482e-b4f7-f062f9ebcd24",
+                    "path": "<HID::USB,2-axis 8-button gamepad  >/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "East",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ba3a5bd4-3005-4da1-998a-f2486eca2da9",
+                    "path": "<HID::USB,2-axis 8-button gamepad  >/button4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "West",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "87d2d518-7df8-4918-901f-c6d7ac6dc7ba",
+                    "path": "<HID::USB,2-axis 8-button gamepad  >/button3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "North",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "46fc352e-a186-4718-be3a-5f167efe2f7a",
+                    "path": "<HID::USB,2-axis 8-button gamepad  >/stick/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "779ef885-7cc4-46c0-93c3-33ece95089e7",
+                    "path": "<HID::USB,2-axis 8-button gamepad  >/stick/up",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "34bcd9d1-4a3c-4784-a015-d474c1d5fc41",
+                    "path": "<HID::USB,2-axis 8-button gamepad  >/stick/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cba4f557-59dd-4bc0-86ae-8b1850df4c4a",
+                    "path": "<HID::USB,2-axis 8-button gamepad  >/stick/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

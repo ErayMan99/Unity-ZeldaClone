@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sword
+  - Enemy
+  - Cam1
+  - Cam2
+  - Heart
+  - Rupee
+  - RupeeAmount
+  - Boomerang
+  - Wall
+  - Destructable
+  - Bomb
+  - HeartContainer
+  - Water
+  - Stepladder
+  - Canvas
+  - ScreenTransition
+  - Feather
+  - Tunic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstruction
+  - Entities
+  - Underground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: test
+    uniqueID: 1137759345
+    locked: 0

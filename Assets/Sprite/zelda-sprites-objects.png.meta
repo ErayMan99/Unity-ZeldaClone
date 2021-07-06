@@ -1,0 +1,2104 @@
+fileFormatVersion: 2
+guid: 4d2ddc6fb31494ee6817cb62b3caae21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zelda-sprites-objects_0
+  - first:
+      213: 21300002
+    second: zelda-sprites-objects_1
+  - first:
+      213: 21300004
+    second: zelda-sprites-objects_2
+  - first:
+      213: 21300006
+    second: zelda-sprites-objects_3
+  - first:
+      213: 21300008
+    second: zelda-sprites-objects_4
+  - first:
+      213: 21300010
+    second: zelda-sprites-objects_5
+  - first:
+      213: 21300012
+    second: zelda-sprites-objects_6
+  - first:
+      213: 21300014
+    second: zelda-sprites-objects_7
+  - first:
+      213: 21300016
+    second: zelda-sprites-objects_8
+  - first:
+      213: 21300018
+    second: zelda-sprites-objects_9
+  - first:
+      213: 21300020
+    second: zelda-sprites-objects_10
+  - first:
+      213: 21300022
+    second: zelda-sprites-objects_11
+  - first:
+      213: 21300024
+    second: zelda-sprites-objects_12
+  - first:
+      213: 21300026
+    second: zelda-sprites-objects_13
+  - first:
+      213: 21300028
+    second: zelda-sprites-objects_14
+  - first:
+      213: 21300030
+    second: zelda-sprites-objects_15
+  - first:
+      213: 21300032
+    second: zelda-sprites-objects_16
+  - first:
+      213: 21300034
+    second: zelda-sprites-objects_17
+  - first:
+      213: 21300036
+    second: zelda-sprites-objects_18
+  - first:
+      213: 21300038
+    second: zelda-sprites-objects_19
+  - first:
+      213: 21300040
+    second: zelda-sprites-objects_20
+  - first:
+      213: 21300042
+    second: zelda-sprites-objects_21
+  - first:
+      213: 21300044
+    second: zelda-sprites-objects_22
+  - first:
+      213: 21300046
+    second: zelda-sprites-objects_23
+  - first:
+      213: 21300048
+    second: zelda-sprites-objects_24
+  - first:
+      213: 21300050
+    second: zelda-sprites-objects_25
+  - first:
+      213: 21300052
+    second: zelda-sprites-objects_26
+  - first:
+      213: 21300054
+    second: zelda-sprites-objects_27
+  - first:
+      213: 21300056
+    second: zelda-sprites-objects_28
+  - first:
+      213: 21300058
+    second: zelda-sprites-objects_29
+  - first:
+      213: 21300060
+    second: zelda-sprites-objects_30
+  - first:
+      213: 21300062
+    second: zelda-sprites-objects_31
+  - first:
+      213: 21300064
+    second: zelda-sprites-objects_32
+  - first:
+      213: 21300066
+    second: zelda-sprites-objects_33
+  - first:
+      213: 21300068
+    second: zelda-sprites-objects_34
+  - first:
+      213: 21300070
+    second: zelda-sprites-objects_35
+  - first:
+      213: 21300072
+    second: zelda-sprites-objects_36
+  - first:
+      213: 21300074
+    second: zelda-sprites-objects_37
+  - first:
+      213: 21300076
+    second: zelda-sprites-objects_38
+  - first:
+      213: 21300078
+    second: zelda-sprites-objects_39
+  - first:
+      213: 21300080
+    second: zelda-sprites-objects_40
+  - first:
+      213: 21300082
+    second: zelda-sprites-objects_41
+  - first:
+      213: 21300084
+    second: zelda-sprites-objects_42
+  - first:
+      213: 21300086
+    second: zelda-sprites-objects_43
+  - first:
+      213: 21300088
+    second: zelda-sprites-objects_44
+  - first:
+      213: 21300090
+    second: zelda-sprites-objects_45
+  - first:
+      213: 21300092
+    second: zelda-sprites-objects_46
+  - first:
+      213: 21300094
+    second: zelda-sprites-objects_47
+  - first:
+      213: 21300096
+    second: zelda-sprites-objects_48
+  - first:
+      213: 21300098
+    second: zelda-sprites-objects_49
+  - first:
+      213: 21300100
+    second: zelda-sprites-objects_50
+  - first:
+      213: 21300102
+    second: zelda-sprites-objects_51
+  - first:
+      213: 21300104
+    second: zelda-sprites-objects_52
+  - first:
+      213: 21300106
+    second: zelda-sprites-objects_53
+  - first:
+      213: 21300108
+    second: zelda-sprites-objects_54
+  - first:
+      213: 21300110
+    second: zelda-sprites-objects_55
+  - first:
+      213: 21300112
+    second: zelda-sprites-objects_56
+  - first:
+      213: 21300114
+    second: zelda-sprites-objects_57
+  - first:
+      213: 21300116
+    second: zelda-sprites-objects_58
+  - first:
+      213: 21300118
+    second: zelda-sprites-objects_59
+  - first:
+      213: 21300120
+    second: zelda-sprites-objects_60
+  - first:
+      213: 21300122
+    second: zelda-sprites-objects_61
+  - first:
+      213: 21300124
+    second: zelda-sprites-objects_62
+  - first:
+      213: 21300126
+    second: zelda-sprites-objects_63
+  - first:
+      213: 21300128
+    second: zelda-sprites-objects_64
+  - first:
+      213: 21300130
+    second: zelda-sprites-objects_65
+  - first:
+      213: 21300132
+    second: zelda-sprites-objects_66
+  - first:
+      213: 21300134
+    second: zelda-sprites-objects_67
+  - first:
+      213: 21300136
+    second: zelda-sprites-objects_68
+  - first:
+      213: 21300138
+    second: zelda-sprites-objects_69
+  - first:
+      213: 21300140
+    second: zelda-sprites-objects_70
+  - first:
+      213: 21300142
+    second: zelda-sprites-objects_71
+  - first:
+      213: 21300144
+    second: zelda-sprites-objects_72
+  - first:
+      213: 21300146
+    second: zelda-sprites-objects_73
+  - first:
+      213: 332703257417347068
+    second: zelda-sprites-objects_0
+  - first:
+      213: 9123819279545343604
+    second: zelda-sprites-objects_1
+  - first:
+      213: -2185249784216365883
+    second: zelda-sprites-objects_2
+  - first:
+      213: 8968019918268897796
+    second: zelda-sprites-objects_3
+  - first:
+      213: 6650421247888992111
+    second: zelda-sprites-objects_4
+  - first:
+      213: -6543239106127025068
+    second: zelda-sprites-objects_5
+  - first:
+      213: -2812425564022220455
+    second: zelda-sprites-objects_6
+  - first:
+      213: -2991425704336927718
+    second: zelda-sprites-objects_7
+  - first:
+      213: 8559560862070028811
+    second: zelda-sprites-objects_8
+  - first:
+      213: 3521680756160826525
+    second: zelda-sprites-objects_9
+  - first:
+      213: 8582596416777147880
+    second: zelda-sprites-objects_10
+  - first:
+      213: -3949161125120564224
+    second: zelda-sprites-objects_11
+  - first:
+      213: -6398634035672959033
+    second: zelda-sprites-objects_12
+  - first:
+      213: 9084249980647317901
+    second: zelda-sprites-objects_13
+  - first:
+      213: 8936926302158218730
+    second: zelda-sprites-objects_14
+  - first:
+      213: 8774539877833386055
+    second: zelda-sprites-objects_15
+  - first:
+      213: 2540158816635888490
+    second: zelda-sprites-objects_16
+  - first:
+      213: -4586510865517739531
+    second: zelda-sprites-objects_17
+  - first:
+      213: 6398803632189997941
+    second: zelda-sprites-objects_18
+  - first:
+      213: -607140611190388359
+    second: zelda-sprites-objects_19
+  - first:
+      213: 267998339553879787
+    second: zelda-sprites-objects_20
+  - first:
+      213: -2466491967920365495
+    second: zelda-sprites-objects_21
+  - first:
+      213: -4587785862407423698
+    second: zelda-sprites-objects_22
+  - first:
+      213: 1874020534118335225
+    second: zelda-sprites-objects_23
+  - first:
+      213: -2647712597091374666
+    second: zelda-sprites-objects_24
+  - first:
+      213: 5267936631573762685
+    second: zelda-sprites-objects_25
+  - first:
+      213: 2698729073850400814
+    second: zelda-sprites-objects_26
+  - first:
+      213: -6932556244622490360
+    second: zelda-sprites-objects_27
+  - first:
+      213: -4721706434404816311
+    second: zelda-sprites-objects_28
+  - first:
+      213: -4395339401151418695
+    second: zelda-sprites-objects_29
+  - first:
+      213: -6579926015542277189
+    second: zelda-sprites-objects_30
+  - first:
+      213: 9035584068116764265
+    second: zelda-sprites-objects_31
+  - first:
+      213: -389524531113958172
+    second: zelda-sprites-objects_32
+  - first:
+      213: -5487643519743769145
+    second: zelda-sprites-objects_33
+  - first:
+      213: 1154284899549034724
+    second: zelda-sprites-objects_34
+  - first:
+      213: -3767279292642742857
+    second: zelda-sprites-objects_35
+  - first:
+      213: -3498956867292325435
+    second: zelda-sprites-objects_36
+  - first:
+      213: -3778680447026919712
+    second: zelda-sprites-objects_37
+  - first:
+      213: 7980782717051051361
+    second: zelda-sprites-objects_38
+  - first:
+      213: -7853781959917884328
+    second: zelda-sprites-objects_39
+  - first:
+      213: -6922514242755005490
+    second: zelda-sprites-objects_40
+  - first:
+      213: -1344535952553260068
+    second: zelda-sprites-objects_41
+  - first:
+      213: 7557501108472180669
+    second: zelda-sprites-objects_42
+  - first:
+      213: 2647694987188696837
+    second: zelda-sprites-objects_43
+  - first:
+      213: -8431059331641062001
+    second: zelda-sprites-objects_44
+  - first:
+      213: 3933370631990729241
+    second: zelda-sprites-objects_45
+  - first:
+      213: 8472152611164381245
+    second: zelda-sprites-objects_46
+  - first:
+      213: -4078780651234221607
+    second: zelda-sprites-objects_47
+  - first:
+      213: -5402053590096168720
+    second: zelda-sprites-objects_48
+  - first:
+      213: -6532311516768777559
+    second: zelda-sprites-objects_49
+  - first:
+      213: 2428366955687439168
+    second: zelda-sprites-objects_50
+  - first:
+      213: 8863117066046837383
+    second: zelda-sprites-objects_51
+  - first:
+      213: 249539343319128618
+    second: zelda-sprites-objects_52
+  - first:
+      213: -6629727171855081219
+    second: zelda-sprites-objects_53
+  - first:
+      213: 2911706713640894871
+    second: zelda-sprites-objects_54
+  - first:
+      213: -7980029997608695523
+    second: zelda-sprites-objects_55
+  - first:
+      213: -4372436133249623396
+    second: zelda-sprites-objects_56
+  - first:
+      213: 4879072384107819380
+    second: zelda-sprites-objects_57
+  - first:
+      213: -8387296707534744700
+    second: zelda-sprites-objects_58
+  - first:
+      213: -6890345151419949145
+    second: zelda-sprites-objects_59
+  - first:
+      213: 6472109663363358874
+    second: zelda-sprites-objects_60
+  - first:
+      213: -6504822749913749536
+    second: zelda-sprites-objects_61
+  - first:
+      213: -7562054787341754799
+    second: zelda-sprites-objects_62
+  - first:
+      213: -8319910558807495655
+    second: zelda-sprites-objects_63
+  - first:
+      213: 4803907161723289859
+    second: zelda-sprites-objects_64
+  - first:
+      213: 7977636680244779733
+    second: zelda-sprites-objects_65
+  - first:
+      213: -5784622828668497947
+    second: zelda-sprites-objects_66
+  - first:
+      213: -2277488031965502021
+    second: zelda-sprites-objects_67
+  - first:
+      213: 8319560153958238725
+    second: zelda-sprites-objects_68
+  - first:
+      213: -5258054414589508895
+    second: zelda-sprites-objects_69
+  - first:
+      213: 513262628411540575
+    second: zelda-sprites-objects_70
+  - first:
+      213: 1151457066589991941
+    second: zelda-sprites-objects_71
+  - first:
+      213: -5052841235117245964
+    second: zelda-sprites-objects_72
+  - first:
+      213: -5757616001282373042
+    second: zelda-sprites-objects_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zelda-sprites-objects_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 7
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffe9f199dffd9400800000000000000
+      internalID: 332703257417347068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 97
+        width: 16
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e19207b415e9e70800000000000000
+      internalID: 9123819279545343604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 92
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4d84236ee6ca1e0800000000000000
+      internalID: -2185249784216365883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 97
+        width: 16
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a9b0fd99ec47c70800000000000000
+      internalID: 8968019918268897796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 92
+        width: 5
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f672227b3ea0b4c50800000000000000
+      internalID: 6650421247888992111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 92
+        width: 5
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45caad653beb135a0800000000000000
+      internalID: -6543239106127025068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 7
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9595a33b9d148f8d0800000000000000
+      internalID: -2812425564022220455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 96
+        width: 7
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a145601db225c76d0800000000000000
+      internalID: -2991425704336927718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 94
+        width: 13
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a3509e04ba9c670800000000000000
+      internalID: 8559560862070028811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 94
+        width: 8
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c8b433df58fd030800000000000000
+      internalID: 3521680756160826525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 92
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5da80f7f18b1770800000000000000
+      internalID: 8582596416777147880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 103
+        width: 6
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004286851e2c139c0800000000000000
+      internalID: -3949161125120564224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 103
+        width: 6
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c73df7fe3c7337a0800000000000000
+      internalID: -6398634035672959033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 98
+        width: 16
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81255b1a3db11e70800000000000000
+      internalID: 9084249980647317901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_14
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 98
+        width: 16
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae56cf73f17560c70800000000000000
+      internalID: 8936926302158218730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 92
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74822c5878d65c970800000000000000
+      internalID: 8774539877833386055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 92
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63a8a24cf4704320800000000000000
+      internalID: 2540158816635888490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 7
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1885e0ba07950c0800000000000000
+      internalID: -4586510865517739531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 67
+        width: 16
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5730a2c400e1dc850800000000000000
+      internalID: 6398803632189997941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 62
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9798845b4d00397f0800000000000000
+      internalID: -607140611190388359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 67
+        width: 16
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6e085e11f18b300800000000000000
+      internalID: 267998339553879787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 62
+        width: 5
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940a0ca8f9245cdd0800000000000000
+      internalID: -2466491967920365495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 68
+        width: 16
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2975a5b019e450c0800000000000000
+      internalID: -4587785862407423698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 62
+        width: 5
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f249ed2fbbd10a10800000000000000
+      internalID: 1874020534118335225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 68
+        width: 16
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9aa0fcb6f614bd0800000000000000
+      internalID: -2647712597091374666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 62
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72d838a4787b1940800000000000000
+      internalID: 5267936631573762685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 62
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e204fdf4bcfc37520800000000000000
+      internalID: 2698729073850400814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 66
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8054cd563dc9acf90800000000000000
+      internalID: -6932556244622490360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 66
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aef9bb301297eb0800000000000000
+      internalID: -4721706434404816311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 63
+        width: 8
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be67172a1e9003c0800000000000000
+      internalID: -4395339401151418695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 65
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb404b96286fa4a0800000000000000
+      internalID: -6579926015542277189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 62
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966574e56d7d46d70800000000000000
+      internalID: 9035584068116764265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 7
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4e6a3b081289af0800000000000000
+      internalID: -389524531113958172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_33
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 37
+        width: 16
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c2b72b49f7d3b0800000000000000
+      internalID: -5487643519743769145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 32
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8b73f1008d40010800000000000000
+      internalID: 1154284899549034724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 37
+        width: 16
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd2858717fe7bbc0800000000000000
+      internalID: -3767279292642742857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 32
+        width: 5
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c990a87445317fc0800000000000000
+      internalID: -3498956867292325435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 16
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e60f3b572e6f8bc0800000000000000
+      internalID: -3778680447026919712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_38
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 32
+        width: 5
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d976fd89f61ce60800000000000000
+      internalID: 7980782717051051361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_39
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 38
+        width: 16
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c29b72be2c10390800000000000000
+      internalID: -7853781959917884328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3710829f94eef90800000000000000
+      internalID: -6922514242755005490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 32
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb4250ccaf375de0800000000000000
+      internalID: -1344535952553260068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 32
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfea108733a1e860800000000000000
+      internalID: 7557501108472180669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_43
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 33
+        width: 8
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507f6f010908eb420800000000000000
+      internalID: 2647694987188696837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_44
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 32
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dca41253cdefa80800000000000000
+      internalID: -8431059331641062001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_45
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 34
+        width: 11
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ad2c9ffb3269630800000000000000
+      internalID: 3933370631990729241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 32
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30e95799e1239570800000000000000
+      internalID: 8472152611164381245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 7
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1a276ab924567c0800000000000000
+      internalID: -4078780651234221607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 7
+        width: 16
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8b1b091ec0805b0800000000000000
+      internalID: -5402053590096168720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aacdc009419855a0800000000000000
+      internalID: -6532311516768777559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 7
+        width: 16
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04beb0251ea43b120800000000000000
+      internalID: 2428366955687439168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_51
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 11
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7829c64430e100b70800000000000000
+      internalID: 8863117066046837383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_52
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 11
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a550ce5ba867300800000000000000
+      internalID: 249539343319128618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_53
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 11
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0a2d3534a7ef3a0800000000000000
+      internalID: -6629727171855081219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 11
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7918fa444d5786820800000000000000
+      internalID: 2911706713640894871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_55
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 11
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1982974ffc314190800000000000000
+      internalID: -7980029997608695523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_56
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 11
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ad292c08cf153c0800000000000000
+      internalID: -4372436133249623396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_57
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 11
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4713a20ab72f5b340800000000000000
+      internalID: 4879072384107819380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_58
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 11
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483969115165a9b80800000000000000
+      internalID: -8387296707534744700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_59
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af57c567939060a0800000000000000
+      internalID: -6890345151419949145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_60
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a906528b27d81d950800000000000000
+      internalID: 6472109663363358874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_61
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7e2884c2a3ab5a0800000000000000
+      internalID: -6504822749913749536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_62
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 5
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ed3748c3f2e0790800000000000000
+      internalID: -7562054787341754799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_63
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 5
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ce1437d6db98c80800000000000000
+      internalID: -8319910558807495655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_64
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301c8748c18eaa240800000000000000
+      internalID: 4803907161723289859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_65
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dadd191b4246be60800000000000000
+      internalID: 7977636680244779733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_66
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef49918f24e8bfa0800000000000000
+      internalID: -5784622828668497947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_67
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb52e7a93bcb460e0800000000000000
+      internalID: -2277488031965502021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_68
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50acc2091e3057370800000000000000
+      internalID: 8319560153958238725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_69
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2c7b84e53a707b0800000000000000
+      internalID: -5258054414589508895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_70
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5404f224a97f1700800000000000000
+      internalID: 513262628411540575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_71
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504b534f91ccaff00800000000000000
+      internalID: 1151457066589991941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_72
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9f362faa3b0e9b0800000000000000
+      internalID: -5052841235117245964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda-sprites-objects_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a857280c6d810b0800000000000000
+      internalID: -5757616001282373042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e3eeca8424ae742c29f553f009bae101
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

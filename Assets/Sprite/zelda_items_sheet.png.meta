@@ -1,0 +1,1240 @@
+fileFormatVersion: 2
+guid: 8ce41d510df024fc6964005aada771b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zelda_items_sheet_0
+  - first:
+      213: 21300002
+    second: zelda_items_sheet_1
+  - first:
+      213: 21300004
+    second: zelda_items_sheet_2
+  - first:
+      213: 21300006
+    second: zelda_items_sheet_3
+  - first:
+      213: 21300008
+    second: zelda_items_sheet_4
+  - first:
+      213: 21300010
+    second: zelda_items_sheet_5
+  - first:
+      213: 21300012
+    second: zelda_items_sheet_6
+  - first:
+      213: 21300014
+    second: zelda_items_sheet_7
+  - first:
+      213: 21300016
+    second: zelda_items_sheet_8
+  - first:
+      213: 21300018
+    second: zelda_items_sheet_9
+  - first:
+      213: 21300020
+    second: zelda_items_sheet_10
+  - first:
+      213: 21300022
+    second: zelda_items_sheet_11
+  - first:
+      213: 21300024
+    second: zelda_items_sheet_12
+  - first:
+      213: 21300026
+    second: zelda_items_sheet_13
+  - first:
+      213: 21300028
+    second: zelda_items_sheet_14
+  - first:
+      213: 21300030
+    second: zelda_items_sheet_15
+  - first:
+      213: 21300032
+    second: zelda_items_sheet_16
+  - first:
+      213: 21300034
+    second: zelda_items_sheet_17
+  - first:
+      213: 21300036
+    second: zelda_items_sheet_18
+  - first:
+      213: 21300038
+    second: zelda_items_sheet_19
+  - first:
+      213: 21300040
+    second: zelda_items_sheet_20
+  - first:
+      213: 21300042
+    second: zelda_items_sheet_21
+  - first:
+      213: 21300044
+    second: zelda_items_sheet_22
+  - first:
+      213: 21300046
+    second: zelda_items_sheet_23
+  - first:
+      213: 21300048
+    second: zelda_items_sheet_24
+  - first:
+      213: 21300050
+    second: zelda_items_sheet_25
+  - first:
+      213: 21300052
+    second: zelda_items_sheet_26
+  - first:
+      213: 21300054
+    second: zelda_items_sheet_27
+  - first:
+      213: 21300056
+    second: zelda_items_sheet_28
+  - first:
+      213: 21300058
+    second: zelda_items_sheet_29
+  - first:
+      213: 21300060
+    second: zelda_items_sheet_30
+  - first:
+      213: 21300062
+    second: zelda_items_sheet_31
+  - first:
+      213: 21300064
+    second: zelda_items_sheet_32
+  - first:
+      213: 21300066
+    second: zelda_items_sheet_33
+  - first:
+      213: 21300068
+    second: zelda_items_sheet_34
+  - first:
+      213: 21300070
+    second: zelda_items_sheet_35
+  - first:
+      213: 21300072
+    second: zelda_items_sheet_36
+  - first:
+      213: 21300074
+    second: zelda_items_sheet_37
+  - first:
+      213: 21300076
+    second: zelda_items_sheet_38
+  - first:
+      213: 21300078
+    second: zelda_items_sheet_39
+  - first:
+      213: 21300080
+    second: zelda_items_sheet_40
+  - first:
+      213: 21300082
+    second: zelda_items_sheet_41
+  - first:
+      213: 6951782143347024719
+    second: zelda_items_sheet_0
+  - first:
+      213: 8819357397239572345
+    second: zelda_items_sheet_1
+  - first:
+      213: 1484242316971184238
+    second: zelda_items_sheet_2
+  - first:
+      213: 1020012840962624470
+    second: zelda_items_sheet_3
+  - first:
+      213: 5431883192555608267
+    second: zelda_items_sheet_4
+  - first:
+      213: -8628066065368068235
+    second: zelda_items_sheet_5
+  - first:
+      213: -4842026699460829334
+    second: zelda_items_sheet_6
+  - first:
+      213: -8519804651497132099
+    second: zelda_items_sheet_7
+  - first:
+      213: -2636260139166581651
+    second: zelda_items_sheet_8
+  - first:
+      213: -6640256401703901468
+    second: zelda_items_sheet_9
+  - first:
+      213: -6326427235408300861
+    second: zelda_items_sheet_10
+  - first:
+      213: -8027737833571388772
+    second: zelda_items_sheet_11
+  - first:
+      213: -4562358973506021457
+    second: zelda_items_sheet_12
+  - first:
+      213: -6087540125266992727
+    second: zelda_items_sheet_13
+  - first:
+      213: -3128076851370855548
+    second: zelda_items_sheet_14
+  - first:
+      213: 6002356860089795482
+    second: zelda_items_sheet_15
+  - first:
+      213: -59201123414308711
+    second: zelda_items_sheet_16
+  - first:
+      213: -4915493867845889130
+    second: zelda_items_sheet_17
+  - first:
+      213: 5131757643270990955
+    second: zelda_items_sheet_18
+  - first:
+      213: 2824725572147723566
+    second: zelda_items_sheet_19
+  - first:
+      213: 371040863786260798
+    second: zelda_items_sheet_20
+  - first:
+      213: -5274283233082240538
+    second: zelda_items_sheet_21
+  - first:
+      213: 6252657405271994013
+    second: zelda_items_sheet_22
+  - first:
+      213: 819137431813936634
+    second: zelda_items_sheet_23
+  - first:
+      213: 8563463122684911876
+    second: zelda_items_sheet_24
+  - first:
+      213: -5725941127796184023
+    second: zelda_items_sheet_25
+  - first:
+      213: -6803042274515921546
+    second: zelda_items_sheet_26
+  - first:
+      213: -356143342856860696
+    second: zelda_items_sheet_27
+  - first:
+      213: 3378327460031872295
+    second: zelda_items_sheet_28
+  - first:
+      213: -6389827527549174503
+    second: zelda_items_sheet_29
+  - first:
+      213: 812742867697143834
+    second: zelda_items_sheet_30
+  - first:
+      213: 7617230115143306286
+    second: zelda_items_sheet_31
+  - first:
+      213: 2722143456911576437
+    second: zelda_items_sheet_32
+  - first:
+      213: -5266752319138607065
+    second: zelda_items_sheet_33
+  - first:
+      213: -175183181108804667
+    second: zelda_items_sheet_34
+  - first:
+      213: -6446741924582251346
+    second: zelda_items_sheet_35
+  - first:
+      213: -5332436743950089600
+    second: zelda_items_sheet_36
+  - first:
+      213: 8983962754779471433
+    second: zelda_items_sheet_37
+  - first:
+      213: -2669377515364709335
+    second: zelda_items_sheet_38
+  - first:
+      213: -6426278997035867708
+    second: zelda_items_sheet_39
+  - first:
+      213: 5619832960444118569
+    second: zelda_items_sheet_40
+  - first:
+      213: 3836656143572197389
+    second: zelda_items_sheet_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zelda_items_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 120
+        width: 5
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f436a1af601b97060800000000000000
+      internalID: 6951782143347024719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 120
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977ada963d6a46a70800000000000000
+      internalID: 8819357397239572345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 131
+        width: 6
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e609baff586199410800000000000000
+      internalID: 1484242316971184238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 124
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db0aeb4640d72e00800000000000000
+      internalID: 1020012840962624470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 121
+        width: 8
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc811b9fbfce16b40800000000000000
+      internalID: 5431883192555608267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 120
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f422380a3f24880800000000000000
+      internalID: -8628066065368068235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 124
+        width: 5
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f1ea9fe5aadccb0800000000000000
+      internalID: -4842026699460829334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 120
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfeacf2fc293c980800000000000000
+      internalID: -8519804651497132099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 120
+        width: 11
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c3475fe5f1a6bd0800000000000000
+      internalID: -2636260139166581651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 126
+        width: 16
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6ece6fbf119d3a0800000000000000
+      internalID: -6640256401703901468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 120
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4b120c2f30438a0800000000000000
+      internalID: -6326427235408300861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 16
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92730029feb79090800000000000000
+      internalID: -8027737833571388772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 80
+        width: 5
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa79b5e9fae3fa0c0800000000000000
+      internalID: -4562358973506021457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 82
+        width: 11
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1268d5286b48ba0800000000000000
+      internalID: -6087540125266992727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 80
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483faeb4da6d694d0800000000000000
+      internalID: -3128076851370855548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 80
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9308cc23c7ac4350800000000000000
+      internalID: 6002356860089795482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 80
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998069454ecad2ff0800000000000000
+      internalID: -59201123414308711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 82
+        width: 13
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6935f6fde58a8cbb0800000000000000
+      internalID: -4915493867845889130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 80
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c2098236aa73740800000000000000
+      internalID: 5131757643270990955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2db3db11f0733720800000000000000
+      internalID: 2824725572147723566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 80
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39522323b3362500800000000000000
+      internalID: 371040863786260798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 40
+        width: 5
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e19557085bfdc6b0800000000000000
+      internalID: -5274283233082240538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 46
+        width: 16
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee37738c6e5c650800000000000000
+      internalID: 6252657405271994013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 40
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5de7d77292e5b00800000000000000
+      internalID: 819137431813936634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 44
+        width: 5
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401aac2c65887d670800000000000000
+      internalID: 8563463122684911876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 40
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ca8e0b1ee5980b0800000000000000
+      internalID: -5725941127796184023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 40
+        width: 4
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675538b681db691a0800000000000000
+      internalID: -6803042274515921546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 40
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb85ef3489be0bf0800000000000000
+      internalID: -356143342856860696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 41
+        width: 8
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72db52efcea32ee20800000000000000
+      internalID: 3378327460031872295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 40
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d3b6ce7b5c257a0800000000000000
+      internalID: -6389827527549174503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 7
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1012d20551774b00800000000000000
+      internalID: 812742867697143834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 5
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c46819e66d5b960800000000000000
+      internalID: 7617230115143306286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 11
+        width: 6
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d4ed03d0ff6c520800000000000000
+      internalID: 2722143456911576437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72057c19bacb8e6b0800000000000000
+      internalID: -5266752319138607065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3036f23df919df0800000000000000
+      internalID: -175183181108804667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea428aa30629886a0800000000000000
+      internalID: -6446741924582251346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 4
+        width: 7
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0824d99a8016ff5b0800000000000000
+      internalID: -5332436743950089600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 7
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e58f1c6827dac70800000000000000
+      internalID: 8983962754779471433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c8541fa4774fad0800000000000000
+      internalID: -2669377515364709335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 3
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1af12dc4541d6a0800000000000000
+      internalID: -6426278997035867708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 16
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926bd486d48adfd40800000000000000
+      internalID: 5619832960444118569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_items_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 8
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00e0f26f6a8e3530800000000000000
+      internalID: 3836656143572197389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 93068aba2070443bbb9222f9ba5e3fe7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
