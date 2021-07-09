@@ -229,7 +229,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 169
-        width: 15
+        width: 16
         height: 16
       alignment: 6
       pivot: {x: 0, y: 0}
@@ -250,7 +250,7 @@ TextureImporter:
         serializedVersion: 2
         x: 30
         y: 169
-        width: 15
+        width: 16
         height: 16
       alignment: 6
       pivot: {x: 0, y: 0}
@@ -269,9 +269,9 @@ TextureImporter:
       name: zelda-sprites-link_2
       rect:
         serializedVersion: 2
-        x: 62
+        x: 60
         y: 169
-        width: 12
+        width: 16
         height: 16
       alignment: 6
       pivot: {x: 0, y: 0}
@@ -290,9 +290,9 @@ TextureImporter:
       name: zelda-sprites-link_3
       rect:
         serializedVersion: 2
-        x: 91
+        x: 90
         y: 170
-        width: 14
+        width: 16
         height: 15
       alignment: 6
       pivot: {x: 0, y: 0}
@@ -311,9 +311,9 @@ TextureImporter:
       name: zelda-sprites-link_4
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 139
-        width: 13
+        width: 16
         height: 16
       alignment: 6
       pivot: {x: 0, y: 0}
@@ -332,10 +332,10 @@ TextureImporter:
       name: zelda-sprites-link_5
       rect:
         serializedVersion: 2
-        x: 31
+        x: 30
         y: 140
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,9 +353,9 @@ TextureImporter:
       name: zelda-sprites-link_6
       rect:
         serializedVersion: 2
-        x: 62
+        x: 60
         y: 139
-        width: 12
+        width: 16
         height: 16
       alignment: 6
       pivot: {x: 0, y: 0}
@@ -374,9 +374,9 @@ TextureImporter:
       name: zelda-sprites-link_7
       rect:
         serializedVersion: 2
-        x: 90
+        x: 89
         y: 139
-        width: 15
+        width: 16
         height: 16
       alignment: 6
       pivot: {x: 0, y: 0}
@@ -398,7 +398,7 @@ TextureImporter:
         x: 0
         y: 110
         width: 16
-        height: 15
+        height: 16
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,8 +418,8 @@ TextureImporter:
         serializedVersion: 2
         x: 30
         y: 110
-        width: 15
-        height: 15
+        width: 16
+        height: 16
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,10 +458,10 @@ TextureImporter:
       name: zelda-sprites-link_11
       rect:
         serializedVersion: 2
-        x: 90
+        x: 89
         y: 110
-        width: 15
-        height: 15
+        width: 16
+        height: 16
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

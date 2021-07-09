@@ -28,7 +28,7 @@ public class PickupManager : MonoBehaviour {
 			// Decide what pickups in any
 			int item = Random.Range(0, pickups.Length);
 			GameObject newPickup = Instantiate (pickups [item]);
-			newPickup.transform.position = position;
+			newPickup.transform.position = position + Vector3.one/2;
 		}
 	}
 }

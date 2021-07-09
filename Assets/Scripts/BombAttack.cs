@@ -19,7 +19,7 @@ public class BombAttack : MonoBehaviour {
 		anim = this.gameObject.GetComponent<Animator> ();
 		player = GameObject.FindGameObjectWithTag ("Player");
 		playerMovement = player.GetComponent<PlayerMovement> ();
-		transform.position = player.transform.position + (Vector3)playerMovement.moveDirection;
+		transform.position = player.transform.position + (Vector3.one/2) + (Vector3)playerMovement.moveDirection;
 		SoundManager.instance.PlaySingle (audioDrop);
 		Invoke ("explode", timeToExpode);
 	}

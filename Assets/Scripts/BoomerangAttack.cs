@@ -15,6 +15,7 @@ public class BoomerangAttack : MonoBehaviour {
 	public AudioClip audioHitWall;
 	public AudioClip audioBoomerangLoop;
 	private Vector2 startPosition;
+	private Vector3 playerOffset = new Vector3(0.5f, 0.5f, 0);
 
 	void Start()
 	{
@@ -24,11 +25,11 @@ public class BoomerangAttack : MonoBehaviour {
 	void OnEnable()
 	{
 		player = GameObject.FindGameObjectWithTag("Player");
-		transform.parent = player.transform;
+		//transform.parent = player.transform;
 		direction = player.GetComponent<PlayerMovement> ().moveDirection;
 
 		isReturning = false;
-		transform.position = player.transform.position - (new Vector3(0f, 0.2f, 0));
+		transform.position = player.transform.position + playerOffset;
 		startPosition = transform.position;
 
 		SoundManager.instance.efxLoop.loop = true;
@@ -42,7 +43,7 @@ public class BoomerangAttack : MonoBehaviour {
 		if (!isReturning)
 			rigidbody2D.velocity = direction * speed;
 		else
-			rigidbody2D.velocity = (player.transform.position - transform.position).normalized * speed;
+			rigidbody2D.velocity = ((player.transform.position + playerOffset) - transform.position).normalized * speed;
 		// if far enough, return to sender
 		if (Vector2.Distance (startPosition, transform.position) >= distance)
 			isReturning = true;

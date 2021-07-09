@@ -31,16 +31,20 @@ public class JumpFeatherItem : MonoBehaviour
     void Start()
     {
         player = GameObject.FindGameObjectWithTag ("Player");
-		transform.position = player.transform.position-(Vector3.up/3);
+		transform.position = player.transform.position;
         playerMovement = player.GetComponent<PlayerMovement> ();
         tileMap = GameObject.FindGameObjectWithTag("Wall").GetComponent<Tilemap>();
         // Préparons les 2 sauts
         foreach(featherJumps jump in featherJump)
         {
-            position = tileMap.WorldToCell(player.transform.position) + (Vector3) (playerMovement.moveDirection * jump.distance);
-            position = tileMap.CellToWorld(Vector3Int.RoundToInt(position));
+            //position = tileMap.WorldToCell(transform.position) + (Vector3) (playerMovement.moveDirection * jump.distance);
+            //position = tileMap.CellToWorld(Vector3Int.RoundToInt(position));
+			//Debug.Log("World to cell! " + position);
 
-            jump.box.transform.position = position + (Vector3) (Vector2.one/2);
+            //jump.box.transform.position = position;// + (Vector3) (Vector2.one/2);
+            //jump.box.transform.position = Vector3Int.RoundToInt(transform.position) + (Vector3) (playerMovement.moveDirection * jump.distance);
+            jump.box.transform.position = transform.position + (Vector3) (playerMovement.moveDirection * jump.distance);
+            //Debug.Log("Round player " + jump.box.transform.position);
         }
 		startJump();
     }
@@ -61,7 +65,7 @@ public class JumpFeatherItem : MonoBehaviour
             x = radius-(radius*proportion*2);
             y = Mathf.Sqrt(Mathf.Pow(radius, 2f) - (x*x));
             player.transform.position = Vector3.Slerp (startPosition, endPosition, proportion);
-			shadow.transform.position = player.transform.position-(Vector3.up/3);
+			shadow.transform.position = player.transform.position+(Vector3.up/8)+(Vector3.right/2);
             player.transform.position += new Vector3(0,y,0);
 
 			// End of current jump

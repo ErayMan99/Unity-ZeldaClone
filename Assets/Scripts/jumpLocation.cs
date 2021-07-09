@@ -7,6 +7,6 @@ public class jumpLocation : MonoBehaviour
     void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
-        Gizmos.DrawWireCube(transform.position, new Vector3(1, 1, 0));        
+        Gizmos.DrawWireCube(transform.position+(Vector3.one/2), new Vector3(1, 1, 0));        
     }
 }
