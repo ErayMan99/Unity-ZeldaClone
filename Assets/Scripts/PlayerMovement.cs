@@ -249,6 +249,9 @@ public class PlayerMovement : BaseMovement {
 			case "Tunic":
 			  tunic = item;
 			  break;
+			case "Stepladder":
+			  stepladder = item;
+			  break;
           	default:
               break;
       	}
