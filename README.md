@@ -4,6 +4,8 @@ Une recréation 1 pour 1 (+ bonus!) de Zelda au NES. J'essaie de recréer fidèl
 
 Pour l'instant ça inclus une bonne partie de l'overworld, quelques ennemis et quelques objets. Il est impossible de mourir!
 
+Ouvrir la scene nommée: "LegendOfZelda"
+
 Boutons: 
 - Flèches du clavier: Déplace Link. (supporte une manette USB mais ça fait un bout que j'ai pas testé)
 - Space: Coup d'épée
