@@ -19,7 +19,7 @@ Items: (Il faut avoir trouvé l'item en premier pour l'utiliser! Hint: ils sont 
 - Bomb (b)
 - Plume (j) (Pas terminé! Le concept c'est de sauter une fois, une fois atterri il faut resauter en moins de 0,2s pour faire un 2ème saut plus loin pour sauter par dessus des obstacles)
 - Stepladder (toucher de l'eau pose cet échelle et ça permet de marcher dessus. Est un peu finicky, ne fonctionne que sur les tiles entières et non les demi-tiles, etc)
-- Coeur (suffit d'y toucher et le maximum de coeur va augmenter. Un est à l'est de l'overworld et l'autre dans le donjon)
+- Coeur (suffit d'y toucher et le maximum de coeur va augmenter. Un est à l'est de l'overworld (nécéssite le Stepladder!) et l'autre dans le donjon)
 
 Les ennemis:
 - Octorok rouge (lancent des projectiles)
