@@ -28,6 +28,6 @@ Les ennemis:
 - Leever bleu  (se cache dans le sol, vitesse variable, plus résistant que la version rouge)
 
 Autre:
-- Certains murs sont destructibles avec une bombe bien placée (voir la grotte en haut 2 screens en haut à gauche du départ)
+- Certains murs sont destructibles avec une bombe bien placée (voir la grotte 2 screens en haut à gauche du départ)
 - Les ennemis peuvent donner un petit coeur ou un ruppee orange ou bleu quand ils meurent.
 - Je me suis amusé avec de l'éclairage dynamique dans le donjon; c'est n'importe quoi mais c'est amusant.
